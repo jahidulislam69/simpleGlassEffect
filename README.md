@@ -11,7 +11,7 @@ This project showcases a **Glassmorphism Sidebar** with a simple yet elegant des
 
 ### 🖼️ **Preview**
 
-![page1](https://github.com/user-attachments/assets/c0cb741d-1719-488a-823b-4bb2fb970227)
+![image](https://github.com/user-attachments/assets/8a7b7b6c-375c-4744-a0c9-77c0948d5f09)
 *Glassmorphism Sidebar Preview*
 
 ## 🚀 Features
@@ -42,12 +42,10 @@ This project showcases a **Glassmorphism Sidebar** with a simple yet elegant des
 - Fully optimized for mobile and desktop, the sidebar adapts to all screen sizes for a seamless experience.
 
 ## 📸 **Screenshots**
-
 | Glassmorphism Sidebar Closed  | Sidebar Open with Content |
 |-------------------------------|---------------------------|
-| ![page1](https://github.com/user-attachments/assets/c0cb741d-1719-488a-823b-4bb2fb970227)
-| ![image](https://github.com/user-attachments/assets/8a7b7b6c-375c-4744-a0c9-77c0948d5f09)
-|
+|![page1](https://github.com/user-attachments/assets/c0cb741d-1719-488a-823b-4bb2fb970227)|![image](https://github.com/user-attachments/assets/8a7b7b6c-375c-4744-a0c9-77c0948d5f09)|
+
 
 ## 📦 **Installation**
 
